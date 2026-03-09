@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run a simple command
-        run: echo "Workflow is running successfully!"
+        run: echo "Workflow is running successfully!!"
